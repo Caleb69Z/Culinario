@@ -1,0 +1,4 @@
+Agrios
+Amargos
+Dulces
+Salados
